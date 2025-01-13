@@ -26,7 +26,7 @@ export default function Home() {
 Fatigue is a pervasive and costly issue, with many professionals experiencing its effects daily. Workplace fatigue contributes to decreased cognitive and physical performance, reduced productivity due to errors and burnout, diminished job satisfaction, and increased incidents of fatigue-related accidents. These impacts often extend beyond the workplace, disrupting overall well-being and personal lives. To address workplace fatigue, strategies such as organizational adjustments, individual fatigue management training, and technology-driven interventions have been explored. Individual approaches, such as structured breaks, mindfulness exercises, and physical activity, have proven effective in mitigating fatigue and improving overall outcomes. However, these methods are often difficult to integrate into daily workflows, leading to inconsistent use and limited long-term benefits.
           </p>
 
-          </p>
+    
         </section>
 
       
