@@ -128,7 +128,6 @@ Conversation-based intervention: This involves a dialog that leads users through
 We developed interventions based on principles from Cognitive Behavioral Therapy (CBT) and Dialectical Behavioral Therapy (DBT), two well-established and empirically supported therapeutic approaches used to treat various mental health challenges and promote well-being. Each intervention was designed to take less than five minutes and was delivered through one of three formats: a short video, a simple text prompt, or a brief therapeutic conversation with Martin. We categorized the interventions based on their purpose and the level of effort required from users:
 </p>
 <p>
-
 Disengage from work (Low effort): These interventions are adapted from the DBT pleasant activities schedule, which involves engaging in activities that promote positive emotions and help regulate mood. Examples include watching a video of penguins or listening to a favorite song. These interventions are quick and easy, designed to give users a simple, low-effort break without engaging in potentially harmful behaviors like excessive social media use or overeating. They are delivered via text prompts or videos.
 </p>
 <p>
