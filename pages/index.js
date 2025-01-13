@@ -18,6 +18,7 @@ export default function Home() {
           <section>
             <h1>Designing Fatigue Proof AI Systems</h1>
             <h2>A Case Study Of 74 AI Specialists Minimizing AI Fatigue</h2>
+                 <h3>AAIRC, Inc. -  A Minnesota AI Research Company</h3>
           </section>
 
           {/* Abstract Section */}
@@ -36,7 +37,7 @@ export default function Home() {
             </p>
           </section>
   <section style={{ marginTop: '20px', textAlign: 'left' }}>
-            <h2>AI Fatigue Study</h2>
+            <h2>Case Study</h2>
             <p>
 AI fatigue management systems offer a promising solution. By dynamically adapting to user needs and detecting fatigue in real time, these systems can deliver timely, personalized interventions. This approach not only enhances engagement but also addresses the barriers of traditional methods, providing a seamless way to support focus, energy, and well-being throughout the workday. Integrating individual fatigue management interventions into the workday can be challenging, particularly in workplace cultures with high task demands or environments where taking personal time for recovery is not supported. Even in supportive workplaces, the shift from understanding effective fatigue management strategies to applying them during moments of peak fatigue can be difficult, requiring both psychological readiness and actionable opportunities.
 AI-powered solutions, such as fatigue management apps and systems, have gained popularity due to their accessibility and unobtrusive nature. These tools allow users to engage with interventions seamlessly, without disrupting their work environment or drawing attention. However, many available apps lack evidence-based designs, and even those that are rigorously studied face challenges with user attrition and inconsistent engagement. Promoting sustained interaction with fatigue-reduction tools over time is critical to achieving long-term benefits. AI-driven systems designed to adapt to individual needs in real time offer a promising path forward, addressing barriers to adherence while improving outcomes. By focusing on dynamic engagement and user-specific customization, such systems can enhance both the effectiveness and adoption of technology-delivered interventions.  
