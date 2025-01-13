@@ -19,6 +19,7 @@ export default function Home() {
             <h1>Designing Fatigue Proof AI Systems</h1>
             <h2>A Case Study Of 74 AI Specialists Minimizing AI Fatigue</h2>
                  <h3>AAIRC, Inc. -  A Minnesota AI Research Company</h3>
+             <h4>Research Dates - 3/4/2024 - 11/17/2024</h4>
           </section>
 
           {/* Abstract Section */}
