@@ -47,6 +47,29 @@ Integrating AI fatigue management strategies into daily workflows presents uniqu
 <p>
 Sustained interaction with AI fatigue management tools is crucial for long-term effectiveness. Systems that dynamically respond to individual needs and work conditions offer a promising approach. By emphasizing adaptive delivery, real-time feedback, and personalization, AI-driven platforms can tackle fatigue proactively, ensuring consistent engagement and improved workplace well-being. In this study, we present a four-week, between-subjects study with 74 AI specialists to examine the impact of digital micro-intervention timing and content on usage patterns and AI fatigue mitigation throughout the workday. Our goal was to inform the design of effective and engaging fatigue management systems. Using a desktop application for passive data collection and a Teams chatbot for intervention delivery, we tested three categories of intervention content across two timing conditions: User-Scheduled (US) and Adaptive Delivery (AD), where the system dynamically adjusted based on passively-sensed and user-reported fatigue levels.
 </p>
+<p>
+Our results showed that interventions significantly alleviated momentary fatigue. While no significant differences were observed between AD and US conditions in long-term or momentary fatigue reduction, participants expressed a preference for automated "nudges" over self-scheduling interventions. At the same time, they desired a level of control over their schedules, with system assistance for intelligent planning. Participants rated shorter, simpler interventions as more enjoyable, yet longer, more challenging interventions proved to be significantly more effective in reducing fatigue.
+</p>
+<p>
+These findings suggest that both system-initiated delivery and user-initiated scheduling are valuable approaches for integrating fatigue management interventions in the workplace. A combination of the two may be optimal: system-initiated interventions provide convenience and boost overall engagement, while user-initiated scheduling promotes a sense of control and supports healthy behavior changes. Additionally, a balance between easy-to-perform and highly effective interventions appears to benefit users the most. Based on these insights, we propose opportunities to guide the development of personalized, adaptive fatigue management systems that improve workplace well-being.
+</p>
+<p>
+
+Intervention strategies for managing AI fatigue in the workplace can be grouped into three categories: primary, secondary, and tertiary. Primary strategies focus on altering or eliminating the underlying causes of AI fatigue. These might include changes at the organizational level, such as adjusting workflows or adopting new tools to reduce the reliance on AI systems. While these strategies can have a significant long-term impact, they are often difficult to implement or measure due to their high cost and potential disruption to existing operations.
+</p>
+<p>
+
+Secondary strategies, which are the most common, focus on the individual’s experience with AI fatigue and aim to reduce or prevent its negative effects. These interventions might include tools that help users manage their interaction with AI, such as AI-powered fatigue management apps, mindfulness practices, or workshops teaching time and energy management. These approaches are designed to detect signs of AI fatigue early and provide users with strategies to cope, reducing the likelihood of more serious cognitive or emotional fatigue.
+</p>
+<p>
+Tertiary strategies are aimed at treating the effects of AI fatigue once they have developed, such as providing counseling or offering employee assistance programs (EAPs). While these interventions play an important role in recovery, they focus on addressing the consequences rather than the prevention of AI fatigue. While some argue that organizational-level changes should take priority for addressing the sources of AI fatigue, others believe that empowering individuals with the tools and skills to manage their own fatigue is a more practical and scalable solution. Evidence shows that individual-level interventions can be more directly effective and easier to implement, providing immediate relief and support. This study focuses on secondary strategies, particularly those that enable individuals to manage their own responses to AI fatigue.
+</p>
+<p>
+Intervention strategies for managing AI fatigue in the workplace can be grouped into three categories: primary, secondary, and tertiary. Primary strategies focus on altering or eliminating the underlying causes of AI fatigue. These might include changes at the organizational level, such as adjusting workflows or adopting new tools to reduce the reliance on AI systems. While these strategies can have a significant long-term impact, they are often difficult to implement or measure due to their high cost and potential disruption to existing operations.
+</p>
+<p>
+Secondary strategies, which are the most common, focus on the individual’s experience with AI fatigue and aim to reduce or prevent its negative effects. These interventions might include tools that help users manage their interaction with AI, such as AI-powered fatigue management apps, mindfulness practices, or workshops teaching time and energy management. These approaches are designed to detect signs of AI fatigue early and provide users with strategies to cope, reducing the likelihood of more serious cognitive or emotional fatigue.
+</p>
 
           </section>                
         </div>
