@@ -72,6 +72,39 @@ Intervention strategies for managing AI fatigue in the workplace can be grouped 
 <p>
 Secondary strategies, which are the most common, focus on the individual’s experience with AI fatigue and aim to reduce or prevent its negative effects. These interventions might include tools that help users manage their interaction with AI, such as AI-powered fatigue management apps, mindfulness practices, or workshops teaching time and energy management. These approaches are designed to detect signs of AI fatigue early and provide users with strategies to cope, reducing the likelihood of more serious cognitive or emotional fatigue.
 </p>
+<p>
+Tertiary strategies are aimed at treating the effects of AI fatigue once they have developed, such as providing counseling or offering employee assistance programs (EAPs). While these interventions play an important role in recovery, they focus on addressing the consequences rather than the prevention of AI fatigue. While some argue that organizational-level changes should take priority for addressing the sources of AI fatigue, others believe that empowering individuals with the tools and skills to manage their own fatigue is a more practical and scalable solution. Evidence shows that individual-level interventions can be more directly effective and easier to implement, providing immediate relief and support. This study focuses on secondary strategies, particularly those that enable individuals to manage their own responses to AI fatigue.
+</p>
+<p>
+Intervention tailoring to individual needs and context is critical for enhancing effectiveness. Many of the most promising technology-delivered interventions are narrow in scope and short in duration, such as 1-minute meditation sessions. These “digital micro-interventions” leverage technology to offer individual components of traditional therapeutic practices, targeting proximal symptoms (e.g., relaxation for fatigue) with the goal of achieving broader outcomes (e.g., preventing burnout). At their best, these systems can use data from user interactions to personalize recommendations, suggesting activities that are most likely to be effective, engaging, preferred, or timely. The most advanced form of such personalization, known as Adaptive Delivery (AD), uses dynamic behavioral data from ubiquitous sensing technologies to tailor interventions in real time.
+</p>
+<p>
+Prior studies have focused on AD in terms of improving the timing of micro-intervention delivery based on ecological momentary assessment (EMA) or other passively collected data. However, no research has yet explored how AD interventions can be integrated into everyday workflows or compared it to a manual, user-controlled approach where the timing of interventions is fully self-managed. While the AD approach shows great potential for improving user engagement and adherence, research into its application in real-world contexts is still in the early stages. This study aims to examine different methods of engaging with digital micro-interventions, focusing on timing and content in work environments. We will assess the effectiveness of various engagement strategies on fatigue management both in the short and long term by measuring user fatigue levels at multiple points throughout the day: immediately before and after intervention use, multiple times a day, and via a weekly self-report survey.
+</p>
+<p>
+As individual needs and behaviors evolve over time, their preferences for engaging with technology-delivered fatigue management interventions—whether initiated by the technology itself or manually triggered—can be influenced by a range of factors, including their context, history, and personal characteristics. An individual's vulnerability to fatigue and perception of its intensity are shaped by relatively stable traits, such as personality, demographics (e.g., age, gender), and past experiences, as well as more dynamic factors that fluctuate over time, including cognitive appraisal abilities, coping strategies, and available social support.
+</p>
+<p>
+The effectiveness and engagement with fatigue management interventions can also be influenced by personal attributes and situational factors, such as the user's current level of fatigue, their receptivity to interventions, and other mediators like acceptance of discomfort or stress. Research has shown that incorporating individual preferences into the design of these interventions can significantly improve both user engagement and outcomes. Our study focuses on understanding user preferences for different types of fatigue management interventions and their optimal timing, aiming to enhance engagement and maximize the long-term impact on reducing workplace fatigue.
+</p>
+<p>
+The goal of this work was to identify design opportunities for systems that integrate digital micro-interventions into everyday work contexts. Our research questions were:
+</p>
+<p>
+RQ-T1: How does intervention timing impact intervention usage, fatigue reduction, and user preference?
+RQ-T2: How do different types of interventions impact intervention usage, fatigue reduction, and user preferences?
+RQ-T3: What aspects of the intervention timing and content do participants find most useful or needed?
+</p>
+<p>
+
+To examine the impact of different delivery timings (RQ-T1), we conducted an experimental study comparing two conditions: User-Scheduled (US), where participants chose the timing, and Adaptive Delivery (AD), where the system prompted users based on detected fatigue levels. We designed and developed an intervention system with a chatbot that facilitated the different delivery timings for fatigue management interventions for information workers. In the US condition, the chatbot assisted participants in selecting interventions from a catalog and scheduling them in their calendars; in the AD condition, the chatbot nudged participants to perform interventions when it detected high fatigue levels. </p>
+<p>
+
+To examine the impact of different intervention types (RQ-T2), we adapted evidence-based interventions into digital micro-interventions, categorizing them into three types according to their function and required user effort. Participants selected from these three intervention types throughout the study. Finally, to gather user feedback from in-vivo usage of the system (RQ-T3), we deployed the intervention system to 74 information workers and conducted a four-week longitudinal study comparing two delivery timings and three intervention content types. </p>
+<p>
+
+We designed and developed an intervention system consisting of three main components: (1) a fatigue score component, (2) an Adaptive Delivery (AD) component, and (3) a chatbot component. Our fatigue score component calculates the user’s current level of fatigue based on passively sensed data. The AD component uses the fatigue scores along with the user’s self-reported fatigue levels to determine when to prompt users to perform fatigue-reduction interventions. Lastly, the chatbot component proactively sends messages to the user, facilitating the delivery of ecological momentary assessments (EMAs), surveys, and intervention content.
+</p>
 
           </section>                
         </div>
