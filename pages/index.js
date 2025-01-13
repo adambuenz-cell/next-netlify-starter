@@ -1,3 +1,30 @@
+import Head from 'next/head';
+import Header from '@components/Header';
+import Footer from '@components/Footer';
+
+export default function Home() {
+  return (
+    <div>
+      <Head>
+        <title>Designing Fatigue Proof AI Systems</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
+      <Header />
+
+      <main style={{ display: 'flex', justifyContent: 'center', padding: '20px', fontFamily: 'Arial, sans-serif' }}>
+        <div style={{ maxWidth: '800px', textAlign: 'center', width: '100%' }}>
+          {/* Title Section */}
+          <section>
+            <h1>Designing Fatigue Proof AI Systems</h1>
+            <h2>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive Use</h2>
+                 <h3>AAIRC, Inc. -  A Minnesota AI Research Company</h3>
+             <h4>Implementation Dates - 3/4/2024 - 11/17/2024</h4>
+          </section>
+
+          {/* Abstract Section */}
+          <section style={{ marginTop: '20px', textAlign: 'left' }}>
+            <h2>Abstract</h2>
 <p>
 AI Fatigue management systems offer a promising solution to negating the disadvantageous effects of continued AI system operations. By dynamically adapting to user needs and detecting AI fatigue in real time, these systems can deliver timely, personalized interventions. This approach not only enhances engagement but also addresses the barriers of traditional methods, providing a seamless way to support focus, energy, and well-being throughout the workday. Integrating individual AI fatigue management interventions into the workday can be challenging, particularly in workplace cultures with high task demands or environments where taking personal time for recovery is not supported. Even in supportive workplaces, the shift from understanding effective AI fatigue management strategies to applying them during moments of peak AI fatigue can be difficult, requiring both psychological readiness and actionable opportunities. AI-powered solutions, such as AI fatigue management apps and systems, have gained popularity due to their accessibility and unobtrusive nature. These tools allow users to engage with interventions seamlessly, without disrupting their work environment or drawing attention. However, many available apps lack evidence-based designs, and even those that are rigorously studied face challenges with user attrition and inconsistent engagement. Promoting sustained interaction with AI fatigue-reduction tools over time is critical to achieving long-term benefits. AI-driven systems designed to adapt to individual needs in real time offer a promising path forward, addressing barriers to adherence while improving outcomes. By focusing on dynamic engagement and user-specific customization, such systems can enhance both the effectiveness and adoption of technology-delivered interventions.
 </p>
@@ -209,3 +236,12 @@ Future work should focus on the following areas:<br/>
 By addressing these areas, future systems can more effectively reduce AI fatigue, promote sustained engagement, and support healthier, more productive interactions with AI technologies in workplace environments.
 </p>
 
+
+          </section>                
+        </div>
+      </main>
+
+      <Footer />
+    </div>
+  );
+}
