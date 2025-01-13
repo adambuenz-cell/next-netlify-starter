@@ -92,8 +92,13 @@ The goal of this work was to identify design opportunities for systems that inte
 </p>
 <p>
 RQ-T1: How does intervention timing impact intervention usage, fatigue reduction, and user preference?
+          </p>
+<p>
 RQ-T2: How do different types of interventions impact intervention usage, fatigue reduction, and user preferences?
+                </p>
+<p>
 RQ-T3: What aspects of the intervention timing and content do participants find most useful or needed?
+                
 </p>
 <p>
 
