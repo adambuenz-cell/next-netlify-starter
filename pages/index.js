@@ -80,7 +80,9 @@ Physiological Signals (f5): Variations in heart rate, particularly increased hea
 <p>
 Each component of the AI fatigue score was normalized to create a value between 0 and 1. If any component exceeded 1, it was rounded to 1. These components were then combined and normalized to compute the overall AI fatigue score, providing a comprehensive measure of AI fatigue.
 </p>
-<p>{`𝑆 = ${(f1 + f2 + f3 + f4 + f5) / 5}`}</p>
+<p>
+  𝑆 = (f1 + f2 + f3 + f4 + f5) / 5
+</p>
 
 <p>
   The AI fatigue score was stored in the database for retrieval by the Adaptive Delivery (AD) component.    Our AI fatigue score incorporates factors such as work demands (e.g., email volume, calendar volume) and available resources (e.g., time of day), along with behavioral and/or physiological indicators of AI fatigue (e.g., facial expressions, heart rate). These components were developed based on prior research and designed to provide a simple, explainable, continuous estimate of how likely an individual was experiencing AI fatigue. While a more complex, machine-learning-based AI fatigue score could be developed in the future, we found this practical estimate sufficient for the purposes of our study.  We conducted a retrospective analysis to assess the correlation between our AI fatigue scores and participants' self-reported momentary AI fatigue levels, using ecological momentary assessments (EMAs) where participants rated their AI fatigue on a scale from 1 (Not at all AI fatigued) to 5 (Extremely AI fatigued). Our analysis revealed a significant positive correlation between the AI fatigue score and self-reported AI fatigue levels (N=1318, Pearson r=0.2, p{"<"}0.01). 
