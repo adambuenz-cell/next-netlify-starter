@@ -72,7 +72,7 @@ Physiological Signals (f5): Variations in heart rate, particularly increased hea
 <p>
 Each component of the AI fatigue score was normalized to create a value between 0 and 1. If any component exceeded 1, it was rounded to 1. These components were then combined and normalized to compute the overall AI fatigue score, providing a comprehensive measure of AI fatigue.
 </p>
-<p>
+<p style={{ textAlign: 'center', width: '100%' }}>
   𝑆 = (f1 + f2 + f3 + f4 + f5) / 5
 </p>
 
