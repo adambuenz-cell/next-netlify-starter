@@ -20,7 +20,7 @@ export default function Home() {
             <h1>Designing Fatigue Proof AI Systems</h1>
             <h2>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive Use</h2>
                  <h3>AAIRC, Inc. -  A Minnesota AI Research Company</h3>
-             <h4>Case Study Dates - 3/1/2024 - 11/17/2024</h4>
+             <h4>Incidence - 6/1/2024 - EOM (4 weeks observable)</h4>
             <h5>media@ai-fatigue.com</h5>
           </section>
 
