@@ -21,6 +21,7 @@ export default function Home() {
             <h2>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive Use</h2>
                  <h3>AAIRC, Inc. -  A Minnesota AI Research Company</h3>
              <h4>Implementation Dates - 3/4/2024 - 11/17/2024</h4>
+            <h5>media@ai-fatigue.com</h5>
           </section>
 
           {/* Abstract Section */}
