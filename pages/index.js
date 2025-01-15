@@ -58,7 +58,7 @@ RQ-T3: What aspects of the intervention timing and content do participants find 
 We designed the AI fatigue score to capture five components that are linked to AI fatigue. They are defined as follows:
 </p>
 <p>
-AI Load (f1): The volume of emails received in a given day has been shown to contribute to in information workers. The AI Load component (f1) at X hours into the day was computed as the number of AI transactions sent/received until that time of day / 2400.
+AI Load (f1): The volume of AI transcations operated in a given day has been shown to contribute to workers. The AI Load component (f1) at X hours into the day was computed as the number of AI transactions sent/received until that time of day / 2400.
 </p>
 <p>
 AI Task Complexity (f2): The complexity of AI tasks, including the number of ongoing projects or tasks such as model employment, is linked to cognitive overload and AI fatigue. The AI Task Complexity component (f2) was computed as the total number of active tasks in a given day, normalized by the typical task load.
