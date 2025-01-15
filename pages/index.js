@@ -18,7 +18,7 @@ export default function Home() {
           {/* Title Section */}
           <section>
             <h1>Designing Fatigue Proof AI Systems</h1>
-            <h2>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive Use</h2>
+            <h2>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive AI Interaction</h2>
                  <h3>AAIRC</h3>
              <h4>Incidence - 6/1/2024 - EOM (4 weeks observable)</h4>
             <h5>media@ai-fatigue.com</h5>
