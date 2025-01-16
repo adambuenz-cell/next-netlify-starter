@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Designing Fatigue Proof AI Systems</title>
+        <title>Designing AI Fatigue Management Systems and Strategies</title>
         <link rel="icon" href="/favicon.ico" />
     <meta name="google-site-verification" content="JDE3nTnRooVGLvqpev-zzqrD4394MUlHyEXo8PLpnFE" />
       </Head>
