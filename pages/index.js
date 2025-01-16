@@ -19,7 +19,6 @@ export default function Home() {
           <section>
             <h1>Designing AI Fatigue Management Systems and Strategies</h1>
             <h4>Quantifying AI Fatigue To Measure Detrimental Psychological Implications of Pervasive AI Interaction</h4>
-      <span style="font-family: 'Libre Barcode 39 Extended Text'; font-size: 55px;">358853358</span>
              <h4>Incidence - 6/1/2024 - EOM (4 weeks observable)</h4>
             <h5>media@ai-fatigue.com</h5>
           </section>
